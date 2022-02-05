@@ -16,14 +16,5 @@
       <description>          </description>
     </item>
     
-    <item>
-      <title>This Is A Generic Page</title>
-      <link>https://royalflushranch.com/generic/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://royalflushranch.com/generic/</guid>
-      <description>This is a subheading Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.</description>
-    </item>
-    
   </channel>
 </rss>
